@@ -1,5 +1,5 @@
 {
-    "name": "0chak/eu-vat-validation",
+    "name": "zerochak/simple-vat-validator",
     "description": "Offline EU VAT number format and checksum validation for Laravel.",
     "keywords": ["laravel", "vat", "eu", "validation", "vies"],
     "license": "MIT",

@@ -5,7 +5,7 @@ Offline EU VAT number validation for Laravel: per-country format checks plus che
 ## Installation
 
 ```bash
-composer require 0chak/eu-vat-validation
+composer require zerochak/simple-vat-validator
 ```
 
 Laravel auto-discovers the service provider. On Lumen, register it yourself:
